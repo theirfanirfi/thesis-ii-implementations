@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="irfan" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="16.1.1" Name="untitled" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BpPoolLaneDefaultOrientation="\u0000" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowReceptionOption="\u0001" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PaintConnectorThroughLabel="false" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowBSElementCode="true" ShowClassEmptyCompartments="false" ShowColumnDefaultValue="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowColumnUserType="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" SnapConnectorsAfterZoom="false" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="false" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseStateNameTab="false" WireflowDiagramDevice="0" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+				<DefaultHtmlDocFont Family="Dialog" Size="12" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true" QuickAddGlossaryTermParentModelId="default"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<ORMOptions DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="true" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="_LUSBP6FYEB2uQV_" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="ArUSBP6FYEB2uQWA" LastNumericValue="0" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="grUSBP6FYEB2uQWB" LastNumericValue="0" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="grUSBP6FYEB2uQWC" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="grUSBP6FYEB2uQWD" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+					<POUserIDFormat Digits="-1" Guid="false" Id="grUSBP6FYEB2uQWE" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="bXkSBP6FYEB2uQBQ" Name="boolean" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.441" PmLastModified="2022-02-22T12:15:50.907" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="OfkSBP6FYEB2uQBR" Name="byte" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.443" PmLastModified="2022-02-22T12:15:50.899" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="ufkSBP6FYEB2uQBS" Name="char" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.443" PmLastModified="2022-02-22T12:15:50.910" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="efkSBP6FYEB2uQBT" Name="double" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.444" PmLastModified="2022-02-22T12:15:50.905" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="bfkSBP6FYEB2uQBU" Name="float" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.444" PmLastModified="2022-02-22T12:15:50.911" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="3fkSBP6FYEB2uQBV" Name="int" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.445" PmLastModified="2022-02-22T12:15:50.906" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="i_kSBP6FYEB2uQBW" Name="long" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.445" PmLastModified="2022-02-22T12:15:50.889" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="y_kSBP6FYEB2uQBX" Name="short" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.446" PmLastModified="2022-02-22T12:15:50.903" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="a_kSBP6FYEB2uQBY" Name="void" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.446" PmLastModified="2022-02-22T12:15:50.910" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="m_kSBP6FYEB2uQBZ" Name="string" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-06-21T18:09:47.446" PmLastModified="2022-02-22T12:15:50.896" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+		<Model Abstract="false" BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" Id="VAqSBP6FYEB2uQXL" Leaf="false" Name="Class Diagram - Company Structure" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:12:14.482" PmLastModified="2022-02-22T12:15:50.906" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true">
+			<ModelChildren>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" Id="SgqSBP6FYEB2uQXN" Leaf="false" Name="Company" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:26:54.402" PmLastModified="2022-02-22T12:15:50.893" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<ModelChildren>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="EQqSBP6FYEB2uQXP" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="name" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:26:57.755" PmLastModified="2022-02-22T12:15:50.895" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="6QqSBP6FYEB2uQXR" Leaf="false" Lower_IsNull="true" Name="getName" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:02.051" PmLastModified="2022-02-22T12:15:50.895" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="String" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="hQqSBP6FYEB2uQXS" Leaf="false" Lower_IsNull="true" Name="setName" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:05.194" PmLastModified="2022-02-22T12:15:50.895" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Documentation_plain="" Id="PQqSBP6FYEB2uQXU" Multiplicity="Unspecified" Name="n" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:07.946" PmLastModified="2022-02-22T12:15:50.895" QualityReason_IsNull="true" QualityScore="-1" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ModelChildren>
+						</Operation>
+					</ModelChildren>
+					<MasterView>
+						<Class Idref="C0qSBP6FYEB2uQXz" Name="Company"/>
+					</MasterView>
+				</Class>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" Id="CwqSBP6FYEB2uQXV" Leaf="false" Name="Department" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:11.931" PmLastModified="2022-02-22T12:15:50.904" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<ModelChildren>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="2wqSBP6FYEB2uQXW" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="name" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:15.934" PmLastModified="2022-02-22T12:15:50.905" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="lwqSBP6FYEB2uQXX" Leaf="false" Lower_IsNull="true" Name="getName" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:20.191" PmLastModified="2022-02-22T12:15:50.905" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="String" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="HwqSBP6FYEB2uQXY" Leaf="false" Lower_IsNull="true" Name="setName" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:22.966" PmLastModified="2022-02-22T12:15:50.905" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Documentation_plain="" Id="4IqSBP6FYEB2uQXZ" Multiplicity="Unspecified" Name="n" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:26.820" PmLastModified="2022-02-22T12:15:50.905" QualityReason_IsNull="true" QualityScore="-1" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ModelChildren>
+						</Operation>
+					</ModelChildren>
+					<MasterView>
+						<Class Idref="fUqSBP6FYEB2uQXx" Name="Department"/>
+					</MasterView>
+				</Class>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" Id="0IqSBP6FYEB2uQXa" Leaf="false" Name="Office" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:33.320" PmLastModified="2022-02-22T12:15:50.879" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<ModelChildren>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="mIqSBP6FYEB2uQXb" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="address" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:37.359" PmLastModified="2022-02-22T12:15:50.889" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="lIqSBP6FYEB2uQXc" Leaf="false" Lower_IsNull="true" Name="getAddress" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:27:59.826" PmLastModified="2022-02-22T12:15:50.889" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="String" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="TIqSBP6FYEB2uQXd" Leaf="false" Lower_IsNull="true" Name="setAddress" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:04.608" PmLastModified="2022-02-22T12:15:50.889" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Documentation_plain="" Id="goqSBP6FYEB2uQXe" Multiplicity="Unspecified" Name="a" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:07.404" PmLastModified="2022-02-22T12:15:50.889" QualityReason_IsNull="true" QualityScore="-1" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ModelChildren>
+						</Operation>
+					</ModelChildren>
+					<FromSimpleRelationships>
+						<Generalization Idref="gAqSBP6FYEB2uQXJ" Name=""/>
+					</FromSimpleRelationships>
+					<MasterView>
+						<Class Idref="VUqSBP6FYEB2uQXv" Name="Office"/>
+					</MasterView>
+				</Class>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" Id="4oqSBP6FYEB2uQXf" Leaf="false" Name="Headquarter" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:11.505" PmLastModified="2022-02-22T12:15:50.902" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<ToSimpleRelationships>
+						<Generalization Idref="gAqSBP6FYEB2uQXJ" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<Class Idref="WUqSBP6FYEB2uQXt" Name="Headquarter"/>
+					</MasterView>
+				</Class>
+				<Class Abstract="false" Active="false" BacklogActivityId="0" BusinessKeyMutable="true" BusinessModel="false" ConnectToCodeModel="1" Documentation_plain="" Id="coqSBP6FYEB2uQXg" Leaf="false" Name="Employee" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:16.293" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Root="false" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public">
+					<ModelChildren>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="ioqSBP6FYEB2uQXh" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="name" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:19.811" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true"/>
+						<Attribute Abstract="false" Aggregation="None" AllowEmptyName="false" BacklogActivityId="0" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" HasGetter="false" HasSetter="false" Id="yoqSBP6FYEB2uQXi" IsID="false" Leaf="false" Multiplicity="Unspecified" Name="title" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:21.512" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Scope="instance" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="private" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="qoqSBP6FYEB2uQXj" Leaf="false" Lower_IsNull="true" Name="getName" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:41.113" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="String" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="WoqSBP6FYEB2uQXk" Leaf="false" Lower_IsNull="true" Name="setName" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:44.881" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Documentation_plain="" Id="hoqSBP6FYEB2uQXl" Multiplicity="Unspecified" Name="n" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:49.657" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ModelChildren>
+						</Operation>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="5oqSBP6FYEB2uQXm" Leaf="false" Lower_IsNull="true" Name="getTitle" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:49.662" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnType="String" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true"/>
+						<Operation Abstract="false" BacklogActivityId="0" BodyCondition_IsNull="true" ConnectToCodeModel="1" Documentation_plain="" Id="joqSBP6FYEB2uQXn" Leaf="false" Lower_IsNull="true" Name="setTitle" Ordered="false" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:28:52.921" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Query="false" ReturnTypeDocumentation_plain="" Scope="instance" Static="false" TypeModifier="" Unique="true" Upper_IsNull="true" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="public" Visible="true">
+							<ModelChildren>
+								<Parameter BacklogActivityId="0" Direction="inout" Documentation_plain="" Id="7oqSBP6FYEB2uQXo" Multiplicity="Unspecified" Name="t" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:18.045" PmLastModified="2022-02-22T12:15:50.909" QualityReason_IsNull="true" QualityScore="-1" Type="String" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+							</ModelChildren>
+						</Operation>
+					</ModelChildren>
+					<MasterView>
+						<Class Idref="bEqSBP6FYEB2uQXr" Name="Employee"/>
+					</MasterView>
+				</Class>
+			</ModelChildren>
+		</Model>
+		<Association Abstract="false" BacklogActivityId="0" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="CwqSBP6FYEB2uQXV" EndRelationshipToMetaModelElement="coqSBP6FYEB2uQXg" Id="hXKSBP6FYEB2uQWO" Leaf="false" OrderingInProfile="-1" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:34.768" PmLastModified="2022-02-22T12:15:50.904" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="CwqSBP6FYEB2uQXV" Id="M3KSBP6FYEB2uQWV" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:34.768" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="e3KSBP6FYEB2uQWX" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:34.768" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="CwqSBP6FYEB2uQXV" Name="Department"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="coqSBP6FYEB2uQXg" Id="H3KSBP6FYEB2uQWY" JavaCodeAttributeName="" Leaf="false" Multiplicity="1..*" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:34.768" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="MPKSBP6FYEB2uQWa" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:34.768" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="coqSBP6FYEB2uQXg" Name="Employee"/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="N0qSBP6FYEB2uQX1"/>
+			</MasterView>
+		</Association>
+		<Association Abstract="false" BacklogActivityId="0" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="coqSBP6FYEB2uQXg" EndRelationshipToMetaModelElement="CwqSBP6FYEB2uQXV" Id="OPKSBP6FYEB2uQWb" Leaf="false" OrderingInProfile="-1" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:52.112" PmLastModified="2022-02-22T12:15:50.904" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="coqSBP6FYEB2uQXg" Id="VPKSBP6FYEB2uQWg" JavaCodeAttributeName="" Leaf="false" Multiplicity="1" Name="managedBy" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:52.112" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="tPKSBP6FYEB2uQWi" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:52.112" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="coqSBP6FYEB2uQXg" Name="Employee"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="CwqSBP6FYEB2uQXV" Id="DPKSBP6FYEB2uQWj" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Name="manage" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:52.112" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="PPKSBP6FYEB2uQWl" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:29:52.112" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="CwqSBP6FYEB2uQXV" Name="Department"/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="CMqSBP6FYEB2uQX3"/>
+			</MasterView>
+		</Association>
+		<Association Abstract="false" BacklogActivityId="0" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="SgqSBP6FYEB2uQXN" EndRelationshipToMetaModelElement="0IqSBP6FYEB2uQXa" Id="AvKSBP6FYEB2uQWm" Leaf="false" OrderingInProfile="-1" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:23.309" PmLastModified="2022-02-22T12:15:50.885" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="Composited" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="SgqSBP6FYEB2uQXN" Id="CvKSBP6FYEB2uQWr" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:23.309" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="xvKSBP6FYEB2uQWt" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:23.309" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="SgqSBP6FYEB2uQXN" Name="Company"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="0IqSBP6FYEB2uQXa" Id="DvKSBP6FYEB2uQWu" JavaCodeAttributeName="" Leaf="false" Multiplicity="*" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:23.309" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="_vKSBP6FYEB2uQWw" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:23.309" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="0IqSBP6FYEB2uQXa" Name="Office"/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="hMqSBP6FYEB2uQX5"/>
+			</MasterView>
+		</Association>
+		<Association Abstract="false" BacklogActivityId="0" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="SgqSBP6FYEB2uQXN" EndRelationshipToMetaModelElement="CwqSBP6FYEB2uQXV" Id="0fKSBP6FYEB2uQWx" Leaf="false" OrderingInProfile="-1" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:27.974" PmLastModified="2022-02-22T12:15:50.893" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="Composited" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="SgqSBP6FYEB2uQXN" Id="mfKSBP6FYEB2uQW2" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:27.974" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="2fKSBP6FYEB2uQW4" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:27.974" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="SgqSBP6FYEB2uQXN" Name="Company"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="CwqSBP6FYEB2uQXV" Id="ufKSBP6FYEB2uQW5" JavaCodeAttributeName="" Leaf="false" Multiplicity="*" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:27.975" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="1fKSBP6FYEB2uQW7" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:27.975" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="CwqSBP6FYEB2uQXV" Name="Department"/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="zMqSBP6FYEB2uQX7"/>
+			</MasterView>
+		</Association>
+		<Association Abstract="false" BacklogActivityId="0" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="CwqSBP6FYEB2uQXV" EndRelationshipToMetaModelElement="0IqSBP6FYEB2uQXa" Id="nfKSBP6FYEB2uQW8" Leaf="false" OrderingInProfile="-1" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:42.349" PmLastModified="2022-02-22T12:15:50.887" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="CwqSBP6FYEB2uQXV" Id="M_KSBP6FYEB2uQXB" JavaCodeAttributeName="" Leaf="false" Multiplicity="*" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:42.349" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="W_KSBP6FYEB2uQXD" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:42.349" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="CwqSBP6FYEB2uQXV" Name="Department"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" BacklogActivityId="0" ConnectToCodeModel="1" DefaultValue_IsNull="true" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="0IqSBP6FYEB2uQXa" Id="O_KSBP6FYEB2uQXE" JavaCodeAttributeName="" Leaf="false" Multiplicity="*" Navigable="Navigable" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:42.349" PmLastModified_IsNull="true" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityReason_IsNull="true" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier BacklogActivityId="0" Documentation_plain="" Id="._KSBP6FYEB2uQXG" Name="" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:42.349" PmLastModified_IsNull="true" QualityReason_IsNull="true" QualityScore="-1" UserIDLastNumericValue="0" UserID_IsNull="true"/>
+					</Qualifier>
+					<Type>
+						<Class Idref="0IqSBP6FYEB2uQXa" Name="Office"/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="CsqSBP6FYEB2uQX_"/>
+			</MasterView>
+		</Association>
+		<Generalization BacklogActivityId="0" ConnectToCodeModel="1" Documentation_plain="" From="0IqSBP6FYEB2uQXa" Id="gAqSBP6FYEB2uQXJ" PmAuthor="Visual Paradigm" PmCreateDateTime="2017-08-24T09:31:37.885" PmLastModified="2022-02-22T12:15:50.880" QualityReason_IsNull="true" QualityScore="-1" Substitutable="false" To="4oqSBP6FYEB2uQXf" UserIDLastNumericValue="0" UserID_IsNull="true" Visibility="Unspecified">
+			<MasterView>
+				<Generalization Idref="vMqSBP6FYEB2uQX9"/>
+			</MasterView>
+		</Generalization>
+	</Models>
+</Project>
