@@ -99,4 +99,4 @@ for c in classes:
 
 
 for g in classesBuilder:
-    print(g.class_.class_name, g.relations[0].relation_type)
+    print(g.class_.class_name, '\n' , g.class_.instance_variables[0].name, g.relations[0].relation_type)
