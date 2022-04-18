@@ -6,7 +6,7 @@ class Operation_:
     def __init__(self):
         self.id: str
         self.name: str
-        self.return_type: str
+        self.return_type: str = ""
         self.scope: str
         self.visibility: str
         self.parameters: Variable = []

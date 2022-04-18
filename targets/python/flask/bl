@@ -1,0 +1,81 @@
+from application import db
+from application.Models.models import {{cls.class_.class_name}}
+
+
+class {{cls.class_.class_name}}:
+	def __init__(self):
+	    self.{{cls.class_.class_name.lower()}}_id = None #unique identifier
+		{% if cls.class_.instance_variables %}
+		{% for attr in cls.class_.instance_variables %}
+		self.{{attr.name}} = {% if attr.default_value == "" %} None {% else %} {{ attr.default_value }} {% endif %}
+		{% endfor %}
+		{% endif %}
+
+	{% if cls.class_.operations %}
+	{% for op in cls.class_.operations %}
+	def {{op.name}}(self {% for ar in op.parameters %} ,{{ar.name}}{% if not ar.return_type == "" %}:{{ar.return_type}}{% endif %}  {% endfor %}) {% if not op.return_type == "" %} -> {{op.return_type}} {% endif %}:
+		pass
+	{% endfor %}
+	{% endif %}
+
+	def get{{cls.class_.class_name}}ByUid(self, {{cls.class_.class_name.lower()}}_id):
+		return {{cls.class_.class_name}}.query.filter_by({{cls.class_.class_name.lower()}}_id={{cls.class_.class_name.lower()}}_id).first()
+
+	{% if cls.class_.instance_variables %}
+	{% for attr in cls.class_.instance_variables %}
+	def get{{cls.class_.class_name}}By{{attr.name}}(self, {{attr.name}}):
+		return {{cls.class_.class_name}}.query.filter_by({{attr.name}}={{attr.name}}).all()
+
+	def get{{cls.class_.class_name}}By{{attr.name}}FirstRow(self, {{attr.name}}):
+		return {{cls.class_.class_name}}.query.filter_by({{attr.name}}={{attr.name}}).all()
+	{% endfor %}
+	{% endif %}
+
+	def getAll(self):
+		return {{cls.class_.class_name}}.query.all()
+
+	def add{{cls.class_.class_name}}(self,data:dict):
+		{{cls.class_.class_name.lower()}} = {{cls.class_.class_name}}()
+		for attr in data:
+			if data[attr] == "":
+				return False, "All Fields are required"
+			else:
+				if not hasattr({{cls.class_.class_name.lower()}}, attr):
+					return False, "Invalid attribute"
+
+				setattr({{cls.class_.class_name.lower()}}, attr, data[attr])
+		try:
+			db.session.add({{cls.class_.class_name.lower()}})
+			return True, "{{cls.class_.class_name}} Added"
+		except Exception as e:
+			return False, "Error occurred, please try again."
+
+	def update{{cls.class_.class_name}}(self,data:dict,{{cls.class_.class_name.lower()}}_id):
+		{{cls.class_.class_name.lower()}} = self.get{{cls.class_.class_name}}ByUid({{cls.class_.class_name.lower()}}_id)
+		for attr in data:
+			if data[attr] == "":
+				return False, "All Fields are required"
+			else:
+				if not hasattr({{cls.class_.class_name.lower()}}, attr):
+					return False, "Invalid attribute"
+
+				setattr({{cls.class_.class_name.lower()}}, attr, data[attr])
+		try:
+			db.session.add({{cls.class_.class_name.lower()}})
+			return True, "{{cls.class_.class_name}} Updated"
+		except Exception as e:
+			return False, "Error occurred, please try again."
+
+
+	def delete(self, id):
+        {{cls.class_.class_name.lower()}} = self.get{{cls.class_.class_name}}ByUid(id)
+        if not {{cls.class_.class_name.lower()}}:
+            return False, "{{cls.class_.class_name.lower()}} not Found.", "error"
+
+        try:
+            db.session.delete({{cls.class_.class_name.lower()}})
+            db.session.commit()
+            return True, "{{cls.class_.class_name.lower()}} deleted.", "success"
+        except Exception as e:
+            print(e)
+            return False, "Error occurred while deleting the {{cls.class_.class_name}}. Please try again", "error"

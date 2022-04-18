@@ -1,0 +1,66 @@
+from flask_classful import FlaskView, route
+from flask import render_template, flash, redirect, url_for
+from application.Forms.{{cls.class_.class_name}}Form import {{cls.class_.class_name}}Form
+from application.BusinessLogic.{{cls.class_.class_name}}BL import {{cls.class_.class_name}}BL
+
+class {{cls.class_.class_name}}View(FlaskView):
+	title = "{{cls.class_.class_name}}"
+
+	bl = {{cls.class_.class_name}}BL()
+
+	def redirect_with_form(self, form):
+		return render_template("{{cls.class_.class_name.lower()}}/add_{{cls.class_.class_name.lower()}}.html",title=self.title, form=form)
+
+	@login_required
+	def index(self):
+	    all_{{cls.class_.class_name.lower()}} = self.bl.getAll()
+	    return render_template("{{cls.class_.class_name.lower()}}/index_{{cls.class_.class_name.lower()}}.html",title=self.title)
+
+
+	def get(self, id):
+		{{cls.class_.class_name.lower()}} = self.bl.get{{cls.class_.class_name}}ByUid(id)
+		if {{cls.class_.class_name.lower()}}:
+		    return "{{cls.class_.class_name}} not found."
+
+		form = {{cls.class_.class_name}}Form()
+		return render_template("{{cls.class_.class_name.lower()}}/edit_{{cls.class_.class_name.lower()}}.html", form=form, title=self.title)
+
+
+	@login_required
+	def put(self, id):
+	    {{cls.class_.class_name.lower()}} = self.bl.get{{cls.class_.class_name}}ByUid(id)
+		if {{cls.class_.class_name.lower()}}:
+		    return "{{cls.class_.class_name}} not found."
+
+		form = {{cls.class_.class_name}}Form()
+		if form.validate_on_submit():
+			isSaved, message = self.bl.update{{cls.class_.class_name}}(form)
+			if isSaved:
+				flash(message, 'success')
+			else:
+				flash(message, 'error')
+
+			return redirect(url_for("{{cls.class_.class_name}}View:index"))
+		else:
+			return render_template("{{cls.class_.class_name.lower()}}/edit_{{cls.class_.class_name.lower()}}.html", form=form, title=self.title)
+
+	@login_required
+	def post(self):
+		form = {{cls.class_.class_name}}Form()
+		if form.validate_on_submit():
+			isSaved, message = self.bl.add{{cls.class_.class_name}}(form)
+			if isSaved:
+				flash(message, 'success')
+			else:
+				flash(message, 'error')
+
+			return redirect(url_for("{{cls.class_.class_name}}View:index"))
+		else:
+			return render_template("{{cls.class_.class_name.lower()}}/edit_{{cls.class_.class_name.lower()}}.html", form=form, title=self.title)
+
+	@route("/delete/<int:id>")
+	@login_required
+	def delete(self, id):
+		isDeleted, message, message_type = self.bl.delete(id)
+		flash(message, message_type)
+		return redirect(url_for("{{cls.class_.class_name}}View:index"))

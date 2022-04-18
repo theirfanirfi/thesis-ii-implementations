@@ -1,0 +1,15 @@
+from application import db, bcrypt, login_manager, ma
+from sqlalchemy.orm import class_mapper, ColumnProperty
+from flask_login import UserMixin
+from datetime import datetime
+import uuid
+
+class {{cls.class_.class_name}}(db.Model):
+    __tablename__ = "{{cls.class_.class_name}}"
+    obj = uuid.uuid4
+    {{cls.class_.class_name.lower()}}_id = db.Column(db.String(200), default=lambda: uuid.uuid4(), primary_key=True)
+	{% if cls.class_.instance_variables %}
+	{% for attr in cls.class_.instance_variables %}
+    {{attr.name}} = db.Column(db.String(200), nullable=False)
+    {% endfor %}
+    {% endif %}

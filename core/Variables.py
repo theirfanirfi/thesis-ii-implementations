@@ -5,7 +5,7 @@ class Variable:
         self.id = str
         self.type: str
         self.name: str
-        self.default_value: str
+        self.default_value: str = ""
         self.sterotypes: str
         self.visibility: str
 

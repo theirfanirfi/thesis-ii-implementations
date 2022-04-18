@@ -22,6 +22,7 @@ class Relation:
         return self
 
     def perform_generalization(self, raw_data):
+        # print('perform_generalization ',raw_data)
         self.from_class = raw_data['From']
         self.to_class = raw_data['To']
         self.id = raw_data['Id']
